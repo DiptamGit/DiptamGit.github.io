@@ -1,6 +1,7 @@
 $(document).ready(function () {
 
-    const api_url = "https://diptam-spotify.herokuapp.com/";
+    //const api_url = "https://diptam-spotify.herokuapp.com/";
+    const api_url = "http://localhost:3000/";
 
     $("#search").click(function (e) {
         $.ajax({
