@@ -189,6 +189,27 @@ mark, .mark {
   padding: 0.2em;
   background-color: #fcf8e3;
 }
+mark.red {
+  color:#ff0000;
+  background: none;
+}
+
+mark.blue {
+  color:#1212d1;
+  background: none;
+}
+mark.green {
+  color:#035317;
+  background: none;
+}
+mark.violet {
+  color:#7d3de6;
+  background: none;
+}
+mark.orange {
+  color:#d87625;
+  background: none;
+}
 
 sub,
 sup {
