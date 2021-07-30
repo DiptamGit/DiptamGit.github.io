@@ -1,13 +1,13 @@
 // Call the dataTables jQuery plugin
 $(document).ready(function() {
-    const datatablesSimple = document.getElementById('datatable');
+//     const datatablesSimple = document.getElementById('datatable');
     
-   table = new simpleDatatables.DataTable(datatablesSimple, {
-        scrollY:        '50vh',
-        scrollCollapse: true,
-        paging:         false,
-        searchable: false
-   });
+//    table = new simpleDatatables.DataTable(datatablesSimple, {
+//         scrollY:        '50vh',
+//         scrollCollapse: true,
+//         paging:         false,
+//         searchable: false
+//    });
 
     // table.columns.adjust().responsive.recalc();
     
